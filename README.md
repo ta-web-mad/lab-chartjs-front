@@ -1,7 +1,7 @@
 # Lab ChartJS front
 
 ## Objetivo
-Diseñar cinco gráficos a través de la librería ChartJS (utilizar [la versión 3](https://cdnjs.com/libraries/Chart.js/3.9.1). 
+Diseñar cinco gráficos a través de la librería ChartJS (utilizar [la versión 3](https://cdnjs.com/libraries/Chart.js/3.9.1)). 
 Los datos son actualmente obtenidos mediante [fetch]([https://axios-http.com/](https://developer.mozilla.org/es/docs/Web/API/Fetch_API/Using_Fetch)) de la [API de montañas rusas](https://multiapi-app.fly.dev/coasters/allCoasters).
 
 ## Materiales
