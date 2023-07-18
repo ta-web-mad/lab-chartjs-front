@@ -2,10 +2,10 @@
 
 ## Objetivo
 Diseñar cinco gráficos a través de la librería ChartJS (utilizar [la versión 3](https://cdnjs.com/libraries/Chart.js/3.9.1)]. 
-Los datos serán obtenidos mediante [axios](https://axios-http.com/) de la [API de montañas rusas](https://multiapi-app.fly.dev/coasters/allCoasters).
+Los datos son actualmente obtenidos mediante [fetch]([https://axios-http.com/](https://developer.mozilla.org/es/docs/Web/API/Fetch_API/Using_Fetch)) de la [API de montañas rusas](https://multiapi-app.fly.dev/coasters/allCoasters).
 
 ## Materiales
-Se provee la base de trabajo con ExpressJS asi como la vista de estadísticas y el tratamiento estético base.
+Se provee la base de trabajo con el HTML y el CSS resueltos, asi como diversos scripts con las configuraciones por defecto de ChartJS, la paleta cromática aplicable y tanto datos de las montañas rusas obtenidos de la API como las funciones de renderizado.
 
 ## Gráficos
 El objetivo del producto son los siguientes charts:
