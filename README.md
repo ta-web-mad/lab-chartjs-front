@@ -1,4 +1,4 @@
-# Lab ChartJS Madrid
+# Lab ChartJS front
 
 ## Objetivo
 Diseñar cinco gráficos a través de la librería ChartJS (utilizar [la versión 3](https://cdnjs.com/libraries/Chart.js/3.9.1)]. 
